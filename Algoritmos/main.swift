@@ -79,7 +79,3 @@ private func Double(number: Int) -> String {
 
 print(Double(number: 2))
 
-private func Câmbio(Dinheiro: Double) {
-    
-    
-}
