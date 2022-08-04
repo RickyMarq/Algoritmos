@@ -5,4 +5,6 @@
 </p>
 <h1 align="center">Swift Algoritmos</h1>
 
-<p align="center"> Repositório que guarda alguns exercícios de lógica/algoritmos que fiz usando Swift.</p>
+<p align="center"> Repositório que guarda alguns exercícios e anotações de algoritmos que estudei e fiz com Swift.</p>
+<p align="center"> Eu me desafiei a cumprir/estudar algoritmos diariamente para colocar isso na minha cabeça, então não estranhe o número de commits neste projeto 🤯</p>
+
